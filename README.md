@@ -8,6 +8,20 @@ The goal is to build a simple pipeline that transforms an idea into a ready-to-p
 
 Idea → Script → Voice → Video
 
+## 💡 Example Output
+
+Input:
+"creatine"
+
+Output:
+HOOK: This is what would happen if you used creatine every day...
+
+BODY:
+Most people ignore this, but creatine can completely change your performance...
+
+CTA:
+If you see the orange cart, don’t think twice.
+
 ## 🧠 What it does
 
 - Generates content scripts using AI prompts
